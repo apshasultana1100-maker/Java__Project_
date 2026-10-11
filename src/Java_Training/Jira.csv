@@ -1,0 +1,797 @@
+﻿Summary,Issue key,Issue id,Issue Type,Status,Project key,Project name,Project type,Project lead,Project lead id,Project description,Priority,Resolution,Assignee,Assignee Id,Reporter,Reporter Id,Creator,Creator Id,Created,Updated,Last Viewed,Resolved,Due date,Votes,Description,Environment,Watchers,Watchers Id,Original estimate,Remaining Estimate,Time Spent,Work Ratio,Σ Original Estimate,Σ Remaining Estimate,Σ Time Spent,Security Level,Attachment,Attachment,Attachment,Attachment,Custom field (Actual end),Custom field (Actual start),Custom field (Approvals),Custom field (Change reason),Custom field (Change risk),Custom field (Change type),Custom field (Development),Custom field (Epic Color),Custom field (Epic Name),Custom field (Epic Status),Custom field (Focus Areas),Custom field (Goals),Custom field (Impact),Custom field (Incident manager),Custom field (Issue color),Custom field (Locked forms),Custom field (Open forms),Custom field (Project overview key),Custom field (Project overview status),Custom field (Rank),Custom field (Request Type),Custom field (Sentiment),Sprint,Custom field (Start date),Custom field (Story Points),Custom field (Story point estimate),Custom field (Submitted forms),Custom field (Target end),Custom field (Target start),Custom field (Team),Custom field (Total forms),Custom field (Vulnerability),Custom field (Vulnerability),Custom field (Work item created forms),Custom field ([CHART] Date of First Response),Custom field ([CHART] Time in Status),Parent,Parent key,Parent summary,Status category,Status category changed
+Account Locked - Login,SHOP-54,10214,Bug,To Do,SHOP,ShopEase,software,apsha hassan,712020:60429119-426b-4bef-817e-98d0e0bbf31b,,High,,,,apsha hassan,712020:60429119-426b-4bef-817e-98d0e0bbf31b,apsha hassan,712020:60429119-426b-4bef-817e-98d0e0bbf31b,15/Sep/26 6:15 PM,15/Sep/26 6:15 PM,,,,0,"The Account is not locked after repeatedly five fail login attempts.
+
+Steps to Reproduce : 
+
+# Click on Log in.
+# Click on Email.
+# Click on Password.
+# Account Locked after 5 attempts. 
+
+Expected Results : 
+
+The Account need to be locked out after fail five login attempts.
+
+Actual Result : 
+
+The Account is not locked after repeatedly five fail login attempts.",,apsha hassan,712020:60429119-426b-4bef-817e-98d0e0bbf31b,,,,,,,,,,,,,,,ApprovalsCFValue{approvals=[]},,,,{},,,,,,,,,,,,,0|i0002z:i,,,,,,,,,,,,,,,,,,,,To Do,15/Sep/26 6:15 PM
+Red Tape Men Walking Shoes/ Adidas Ultraboost Carbon Shoes,SHOP-53,10213,Bug,To Do,SHOP,ShopEase,software,apsha hassan,712020:60429119-426b-4bef-817e-98d0e0bbf31b,,Medium,,,,apsha hassan,712020:60429119-426b-4bef-817e-98d0e0bbf31b,apsha hassan,712020:60429119-426b-4bef-817e-98d0e0bbf31b,15/Sep/26 6:06 PM,15/Sep/26 6:06 PM,,,,0,"The same images displayed on the both Red Tape Men Walking Shoes and Adidas Ultra-boost Carbon shoes. The images are appeared on the both brands, image 2 (Adidas Ultra-boost Carbon shoes) on Red Tape Men Walking Shoes  = image 1 (Adidas Ultra-boost Carbon shoes)  on Adidas Ultra-boost Carbon shoes.
+
+Steps to Reproduce :
+
+# Click on Search Button.
+# Click on Search category - Fashion.
+# Click on Red Tape Men Walking Shoes
+# Upload Images.
+
+Expected Result  :
+
+The Red Tape Men Walking Shoes pictures need to be displayed on the page.
+
+Actual Result :
+
+Duplicate images displayed on the Red Tape Men Walking Shoes page same as on Adidas Ultra-boost Carbon shoes.",,apsha hassan,712020:60429119-426b-4bef-817e-98d0e0bbf31b,,,,,,,,,15/Sep/26 6:05 PM;9e1afd8d-94a5-46d3-b7c1-60f4d634b6ab;1.png;https://apshahassan1100.atlassian.net/rest/api/3/attachment/content/10151,15/Sep/26 6:06 PM;9e1afd8d-94a5-46d3-b7c1-60f4d634b6ab;2.png;https://apshahassan1100.atlassian.net/rest/api/3/attachment/content/10152,,,,,ApprovalsCFValue{approvals=[]},,,,{},,,,,,,,,,,,,0|i00030:,,,,,,,,,,,,,,,,,,,,To Do,15/Sep/26 6:06 PM
+Park Avenue Good Morning Perfume.,SHOP-52,10212,Bug,To Do,SHOP,ShopEase,software,apsha hassan,712020:60429119-426b-4bef-817e-98d0e0bbf31b,,High,,,,apsha hassan,712020:60429119-426b-4bef-817e-98d0e0bbf31b,apsha hassan,712020:60429119-426b-4bef-817e-98d0e0bbf31b,15/Sep/26 5:54 PM,15/Sep/26 5:55 PM,15/Sep/26 6:08 PM,,,0,"The brand name represents the “Park Avenue” good morning perfume, but perhaps the image uploaded are of the different brand i.e Chanel as a second image too.
+
+Steps to Reproduce :
+
+# Click on Search Button.
+# Click on Search category - beauty
+# Click on Park Avenue Good Morning Perfume
+# Upload Images.
+
+Expected Result  :
+
+The same brand Park Avenue Good Morning Perfume, need to be displayed on the page as a second image too.
+
+Actual Result :
+
+Different perfume brand  is displayed on the Park Avenue Good Morning Perfume brand.","!chanel 2.png|width=634,alt=""chanel 2.png""!",apsha hassan,712020:60429119-426b-4bef-817e-98d0e0bbf31b,,,,,,,,,15/Sep/26 5:55 PM;9e1afd8d-94a5-46d3-b7c1-60f4d634b6ab;chanel 2.png;https://apshahassan1100.atlassian.net/rest/api/3/attachment/content/10148,,,,,,ApprovalsCFValue{approvals=[]},,,,{},,,,,,,,,,,,,0|i00031:m,,,,,,,,,,,,,,,,,,,,To Do,15/Sep/26 5:54 PM
+Red Tape Men Walking Shoes.,SHOP-51,10211,Bug,To Do,SHOP,ShopEase,software,apsha hassan,712020:60429119-426b-4bef-817e-98d0e0bbf31b,,Medium,,,,apsha hassan,712020:60429119-426b-4bef-817e-98d0e0bbf31b,apsha hassan,712020:60429119-426b-4bef-817e-98d0e0bbf31b,15/Sep/26 5:50 PM,15/Sep/26 5:50 PM,,,,0,"The brand name represents the “Red Tape” men walking shoes, but perhaps the image uploaded are of the different brand i.e Nike as a second image.
+
+Steps to Reproduce :
+
+# Click on Search Button.
+# Click on Search category - Fashion.
+# Click on Red Tape Men Walking Shoes.
+# Upload Image.
+
+Expected Result  :
+
+The same brand Red Tape Men walking shoes, need to be displayed on the page as a second image.
+
+Actual Result :
+
+Different brand shoe is displayed on the Red Tape Men walking shoe brand.",,apsha hassan,712020:60429119-426b-4bef-817e-98d0e0bbf31b,,,,,,,,,15/Sep/26 5:50 PM;9e1afd8d-94a5-46d3-b7c1-60f4d634b6ab;nike.png;https://apshahassan1100.atlassian.net/rest/api/3/attachment/content/10147,,,,,,ApprovalsCFValue{approvals=[]},,,,{},,,,,,,,,,,,,0|i00031:9,,,,,,,,,,,,,,,,,,,,To Do,15/Sep/26 5:50 PM
+Delete Account - User Profile.,SHOP-50,10210,Bug,To Do,SHOP,ShopEase,software,apsha hassan,712020:60429119-426b-4bef-817e-98d0e0bbf31b,,Medium,,,,apsha hassan,712020:60429119-426b-4bef-817e-98d0e0bbf31b,apsha hassan,712020:60429119-426b-4bef-817e-98d0e0bbf31b,15/Sep/26 5:38 PM,15/Sep/26 5:38 PM,,,,0,"The user unable to delete the account as no option is displayed.
+
+Steps to Reproduce : 
+
+# Click on My Accounts.
+# Click on My Profile Settings.
+# Click on Profile. 
+# Click on Delete Account.
+
+Expected Result : 
+
+The user able to need to delete the account. 
+
+Actual Result : 
+
+The user unable to delete the account.",,apsha hassan,712020:60429119-426b-4bef-817e-98d0e0bbf31b,,,,,,,,,15/Sep/26 5:38 PM;9e1afd8d-94a5-46d3-b7c1-60f4d634b6ab;user.png;https://apshahassan1100.atlassian.net/rest/api/3/attachment/content/10145,,,,,,ApprovalsCFValue{approvals=[]},,,,{},,,,,,,,,,,,,0|i0004j:,,,,,,,,,,,,,,,,,,,,To Do,15/Sep/26 5:38 PM
+Manage addresses - User Profile.,SHOP-49,10209,Bug,To Do,SHOP,ShopEase,software,apsha hassan,712020:60429119-426b-4bef-817e-98d0e0bbf31b,,High,,,,apsha hassan,712020:60429119-426b-4bef-817e-98d0e0bbf31b,apsha hassan,712020:60429119-426b-4bef-817e-98d0e0bbf31b,15/Sep/26 5:35 PM,15/Sep/26 5:35 PM,,,,0,"The user unable to manage/edit address on the user profile.
+
+Steps to Reproduce : 
+
+# Click on My Accounts.
+# Click on My Profile Settings.
+# Click on Profile. 
+# Click on Manage Address.
+
+Expected Result : 
+
+The user able to manage/edit the address on the user profile.
+
+Actual Result : 
+
+The user unable to manage/edit the address on the user profile.",,apsha hassan,712020:60429119-426b-4bef-817e-98d0e0bbf31b,,,,,,,,,15/Sep/26 5:35 PM;9e1afd8d-94a5-46d3-b7c1-60f4d634b6ab;user.png;https://apshahassan1100.atlassian.net/rest/api/3/attachment/content/10143,,,,,,ApprovalsCFValue{approvals=[]},,,,{},,,,,,,,,,,,,0|i0004n:,,,,,,,,,,,,,,,,,,,,To Do,15/Sep/26 5:35 PM
+Upload Profile Picture - User Profile.,SHOP-48,10208,Bug,To Do,SHOP,ShopEase,software,apsha hassan,712020:60429119-426b-4bef-817e-98d0e0bbf31b,,Medium,,,,apsha hassan,712020:60429119-426b-4bef-817e-98d0e0bbf31b,apsha hassan,712020:60429119-426b-4bef-817e-98d0e0bbf31b,15/Sep/26 5:32 PM,15/Sep/26 5:32 PM,15/Sep/26 5:33 PM,,,0,"The user unable to upload the profile picture.
+
+Steps to Reproduce.
+
+# Click on My Accounts.
+# Click on My Profile Settings.
+# Click on Profile.
+
+Expected Results : 
+
+User need to upload the profile picture.
+
+Actual Result : 
+
+User unable to upload the profile picture.",,apsha hassan,712020:60429119-426b-4bef-817e-98d0e0bbf31b,,,,,,,,,15/Sep/26 5:32 PM;9e1afd8d-94a5-46d3-b7c1-60f4d634b6ab;user.png;https://apshahassan1100.atlassian.net/rest/api/3/attachment/content/10141,,,,,,ApprovalsCFValue{approvals=[]},,,,{},,,,,,,,,,,,,0|i0004f:,,,,,,,,,,,,,,,,,,,,To Do,15/Sep/26 5:32 PM
+Update Profile - User Profile.,SHOP-47,10207,Bug,To Do,SHOP,ShopEase,software,apsha hassan,712020:60429119-426b-4bef-817e-98d0e0bbf31b,,Medium,,,,apsha hassan,712020:60429119-426b-4bef-817e-98d0e0bbf31b,apsha hassan,712020:60429119-426b-4bef-817e-98d0e0bbf31b,15/Sep/26 5:29 PM,15/Sep/26 5:29 PM,,,,0,"The user cannot save the update profile after the updating the profile.
+
+Steps to Reproduce : 
+
+# Click on My Accounts.
+# Click on Profile.
+# Update the Profile. 
+# Save the Changes. 
+
+Expected Result : 
+
+The user can able to save the profile update after the updating the profile.
+
+Actual Result : 
+
+The user cannot save the profile update after the updating the profile.",,apsha hassan,712020:60429119-426b-4bef-817e-98d0e0bbf31b,,,,,,,,,15/Sep/26 5:29 PM;9e1afd8d-94a5-46d3-b7c1-60f4d634b6ab;local.png;https://apshahassan1100.atlassian.net/rest/api/3/attachment/content/10139,,,,,,ApprovalsCFValue{approvals=[]},,,,{},,,,,,,,,,,,,0|i00047:,,,,,,,,,,,,,,,,,,,,To Do,15/Sep/26 5:29 PM
+Return Deliver Order. ,SHOP-46,10206,Bug,To Do,SHOP,ShopEase,software,apsha hassan,712020:60429119-426b-4bef-817e-98d0e0bbf31b,,High,,,,apsha hassan,712020:60429119-426b-4bef-817e-98d0e0bbf31b,apsha hassan,712020:60429119-426b-4bef-817e-98d0e0bbf31b,15/Sep/26 5:20 PM,15/Sep/26 5:20 PM,09/Oct/26 7:53 PM,,,0,"Return deliver order is not displayed on the Orders.
+
+Steps to Reproduce : 
+
+# Click on My Accounts.
+# Click on Orders.
+# Click on Return Deliver Order. 
+
+Expected Result : 
+
+Return deliver order need to be displayed on the orders.
+
+Actual Result : 
+
+Return deliver order is not displayed on the orders.",,apsha hassan,712020:60429119-426b-4bef-817e-98d0e0bbf31b,,,,,,,,,,,,,,,ApprovalsCFValue{approvals=[]},,,,{},,,,,,,,,,,,,0|i0003z:,,,,,,,,,,,,,,,,,,,,To Do,15/Sep/26 5:20 PM
+Cancel Order :,SHOP-45,10205,Bug,To Do,SHOP,ShopEase,software,apsha hassan,712020:60429119-426b-4bef-817e-98d0e0bbf31b,,High,,,,apsha hassan,712020:60429119-426b-4bef-817e-98d0e0bbf31b,apsha hassan,712020:60429119-426b-4bef-817e-98d0e0bbf31b,15/Sep/26 5:18 PM,15/Sep/26 5:18 PM,,,,0,"No cancel order option displayed on the Orders.
+
+Steps to Reproduce : 
+
+# Click on My Accounts.
+# Click on Order.
+# Click on cancel order.
+
+Expected Result : 
+
+Cancel order option need to be displayed on the Orders.
+
+Actual Result : 
+
+No cancel order option displayed on the Orders.",,apsha hassan,712020:60429119-426b-4bef-817e-98d0e0bbf31b,,,,,,,,,15/Sep/26 5:18 PM;9e1afd8d-94a5-46d3-b7c1-60f4d634b6ab;order.png;https://apshahassan1100.atlassian.net/rest/api/3/attachment/content/10137,,,,,,ApprovalsCFValue{approvals=[]},,,,{},,,,,,,,,,,,,0|i0003r:,,,,,,,,,,,,,,,,,,,,To Do,15/Sep/26 5:18 PM
+View order history - Orders,SHOP-44,10204,Bug,To Do,SHOP,ShopEase,software,apsha hassan,712020:60429119-426b-4bef-817e-98d0e0bbf31b,,Medium,,,,apsha hassan,712020:60429119-426b-4bef-817e-98d0e0bbf31b,apsha hassan,712020:60429119-426b-4bef-817e-98d0e0bbf31b,15/Sep/26 5:15 PM,15/Sep/26 5:15 PM,,,,0,"No, view order history is displayed on the page/my accounts.
+
+Steps to Reproduce:
+
+# Click on My Accounts
+# Click on View order history.
+
+Expected Result : 
+
+View order history need to be displayed on the page/my accounts.
+
+Actual Result : 
+
+View order history is not displayed on the page/my accounts.",,apsha hassan,712020:60429119-426b-4bef-817e-98d0e0bbf31b,,,,,,,,,15/Sep/26 5:15 PM;9e1afd8d-94a5-46d3-b7c1-60f4d634b6ab;view order history.png;https://apshahassan1100.atlassian.net/rest/api/3/attachment/content/10135,,,,,,ApprovalsCFValue{approvals=[]},,,,{},,,,,,,,,,,,,0|i0003j:,,,,,,,,,,,,,,,,,,,,To Do,15/Sep/26 5:15 PM
+Payment failure handling - Payments,SHOP-43,10203,Bug,To Do,SHOP,ShopEase,software,apsha hassan,712020:60429119-426b-4bef-817e-98d0e0bbf31b,,High,,,,apsha hassan,712020:60429119-426b-4bef-817e-98d0e0bbf31b,apsha hassan,712020:60429119-426b-4bef-817e-98d0e0bbf31b,15/Sep/26 4:27 PM,15/Sep/26 4:27 PM,,,,0,"Payment failure message or Payment missing details is not displayed. 
+
+Steps to Reproduce : 
+
+# Select the desirable product.
+# Click on Add to Card.
+# Fill the Address.
+# Click on Proceed to Checkout.
+# Click on Payment Method.
+# Payment Failure message/ Payment missing details.
+
+Expected Result : 
+
+After a failure payment, the system should display a clear failure message, such as *“Payment Failure”*. 
+
+Actual Result : 
+
+After completing the payment, no payment failure  message is displayed on the system.",,apsha hassan,712020:60429119-426b-4bef-817e-98d0e0bbf31b,,,,,,,,,15/Sep/26 4:27 PM;9e1afd8d-94a5-46d3-b7c1-60f4d634b6ab;successful failure message.png;https://apshahassan1100.atlassian.net/rest/api/3/attachment/content/10133,,,,,,ApprovalsCFValue{approvals=[]},,,,{},,,,,,,,,,,,,0|i0000u:d9,,,,,,,,,,,,,,,,,,,,To Do,15/Sep/26 4:27 PM
+Payment success handling - Payment,SHOP-42,10202,Bug,To Do,SHOP,ShopEase,software,apsha hassan,712020:60429119-426b-4bef-817e-98d0e0bbf31b,,High,,,,apsha hassan,712020:60429119-426b-4bef-817e-98d0e0bbf31b,apsha hassan,712020:60429119-426b-4bef-817e-98d0e0bbf31b,15/Sep/26 4:23 PM,15/Sep/26 4:23 PM,,,,0,"Payment Successful message is not displayed. 
+
+Steps to Reproduce : 
+
+# Select the desirable product.
+# Click on Add to Card.
+# Fill the Address.
+# Click on Proceed to Checkout.
+# Click on Payment Method.
+# Payment Successful message. 
+
+Expected Result : 
+
+After a successful payment , the system should display a clear confirmation message, such as *“Payment Successful”*. 
+
+Actual Result : 
+
+After successfully completing the payment, no payment success confirmation message is displayed on the system.",,apsha hassan,712020:60429119-426b-4bef-817e-98d0e0bbf31b,,,,,,,,,15/Sep/26 4:23 PM;9e1afd8d-94a5-46d3-b7c1-60f4d634b6ab;successful failure message.png;https://apshahassan1100.atlassian.net/rest/api/3/attachment/content/10131,,,,,,ApprovalsCFValue{approvals=[]},,,,{},,,,,,,,,,,,,0|i0003b:,,,,,,,,,,,,,,,,,,,,To Do,15/Sep/26 4:23 PM
+Wallet - Payment.,SHOP-41,10201,Bug,To Do,SHOP,ShopEase,software,apsha hassan,712020:60429119-426b-4bef-817e-98d0e0bbf31b,,Highest,,,,apsha hassan,712020:60429119-426b-4bef-817e-98d0e0bbf31b,apsha hassan,712020:60429119-426b-4bef-817e-98d0e0bbf31b,15/Sep/26 4:12 PM,15/Sep/26 4:12 PM,,,,0,"Order can be placed without entering the Wallet details.
+
+Steps to Reproduce.
+
+# Select the desirable product.
+# Click on Add to Card.
+# Fill the Address.
+# Click on Proceed to Checkout.
+#  Click on Payment Method.
+# Select Wallet.
+# *Select Digital Wallet Provider*
+
+Expected Result :
+
+The system should validate all mandatory Wallets details before placing the order. The order should *not be placed* until valid payment information is entered.
+
+Actual Result :
+
+After selecting a product, adding it to the cart, and choosing *Wallet* as the payment method, the user can place the order without entering the required card details.",,apsha hassan,712020:60429119-426b-4bef-817e-98d0e0bbf31b,,,,,,,,,,,,,,,ApprovalsCFValue{approvals=[]},,,,{},,,,,,,,,,,,,0|i0000u:di,,,,,,,,,,,,,,,,,,,,To Do,15/Sep/26 4:12 PM
+Net banking - Payments.,SHOP-40,10200,Bug,To Do,SHOP,ShopEase,software,apsha hassan,712020:60429119-426b-4bef-817e-98d0e0bbf31b,,Highest,,,,apsha hassan,712020:60429119-426b-4bef-817e-98d0e0bbf31b,apsha hassan,712020:60429119-426b-4bef-817e-98d0e0bbf31b,15/Sep/26 4:10 PM,15/Sep/26 4:10 PM,,,,0,"Order can be placed without entering the net banking details.
+
+Steps to Reproduce.
+
+# Select the desirable product.
+# Click on Add to Card.
+# Fill the Address.
+# Click on Proceed to Checkout.
+#  Click on Payment Method.
+# Select Net banking
+# *Select Banking Institution*
+
+Expected Result :
+
+The system should validate all mandatory net banking details before placing the order. The order should *not be placed* until valid payment information is entered.
+
+Actual Result :
+
+After selecting a product, adding it to the cart, and choosing *Net banking* as the payment method, the user can place the order without entering the required card details.",,apsha hassan,712020:60429119-426b-4bef-817e-98d0e0bbf31b,,,,,,,,,,,,,,,ApprovalsCFValue{approvals=[]},,,,{},,,,,,,,,,,,,0|i0000u:e,,,,,,,,,,,,,,,,,,,,To Do,15/Sep/26 4:10 PM
+Debit Card - Payments.,SHOP-39,10199,Bug,To Do,SHOP,ShopEase,software,apsha hassan,712020:60429119-426b-4bef-817e-98d0e0bbf31b,,Highest,,,,apsha hassan,712020:60429119-426b-4bef-817e-98d0e0bbf31b,apsha hassan,712020:60429119-426b-4bef-817e-98d0e0bbf31b,15/Sep/26 4:08 PM,15/Sep/26 4:08 PM,,,,0,"Order can be placed without entering the debit card payment details.
+
+Steps to Reproduce.
+
+# Select the desirable product.
+# Click on Add to Card.
+# Fill the Address.
+# Click on Proceed to Checkout.
+#  Click on Payment Method.
+# Select Debit Card.
+# *Enter Payment Card Coordinates*
+
+Expected Result :
+
+The system should validate all mandatory card details before placing the order. The order should *not be placed* until valid payment information is entered.
+
+Actual Result :
+
+After selecting a product, adding it to the cart, and choosing *Debit Card*  as the payment method, the user can place the order without entering the required card details.",,apsha hassan,712020:60429119-426b-4bef-817e-98d0e0bbf31b,,,,,,,,,,,,,,,ApprovalsCFValue{approvals=[]},,,,{},,,,,,,,,,,,,0|i0000u:f,,,,,,,,,,,,,,,,,,,,To Do,15/Sep/26 4:08 PM
+Credit Card - Payment.,SHOP-38,10198,Bug,To Do,SHOP,ShopEase,software,apsha hassan,712020:60429119-426b-4bef-817e-98d0e0bbf31b,,Highest,,,,apsha hassan,712020:60429119-426b-4bef-817e-98d0e0bbf31b,apsha hassan,712020:60429119-426b-4bef-817e-98d0e0bbf31b,15/Sep/26 4:05 PM,15/Sep/26 4:05 PM,15/Sep/26 4:06 PM,,,0,"Order can be placed without entering the card payment details. 
+
+Steps to Reproduce.
+
+# Select the desirable product.
+# Click on Add to Card.
+# Fill the Address.
+# Click on Proceed to Checkout.
+#  Click on Payment Method.
+# Select Credit Card.
+# *Enter Payment Card Coordinates*
+
+Expected Result :
+
+The system should validate all mandatory card details before placing the order. The order should *not be placed* until valid payment information is entered.
+
+Actual Result :
+
+After selecting a product, adding it to the cart, and choosing *Credit Card*  as the payment method, the user can place the order without entering the required card details.",,apsha hassan,712020:60429119-426b-4bef-817e-98d0e0bbf31b,,,,,,,,,,,,,,,ApprovalsCFValue{approvals=[]},,,,{},,,,,,,,,,,,,0|i0000u:d,,,,,,,,,,,,,,,,,,,,To Do,15/Sep/26 4:05 PM
+UPI payment - Payment. ,SHOP-37,10197,Bug,To Do,SHOP,ShopEase,software,apsha hassan,712020:60429119-426b-4bef-817e-98d0e0bbf31b,,Highest,,,,apsha hassan,712020:60429119-426b-4bef-817e-98d0e0bbf31b,apsha hassan,712020:60429119-426b-4bef-817e-98d0e0bbf31b,15/Sep/26 4:00 PM,15/Sep/26 4:06 PM,15/Sep/26 4:05 PM,,,0,"Order can be placed without selecting the UPI method. 
+
+Steps to Reproduce.
+
+# Select the desirable product.
+# Click on Add to Card.
+# Fill the Address.
+# Click on Proceed to Checkout.
+#  Click on Payment Method.
+# Select UPI.
+# *Enter Virtual UPI ID Address.* 
+
+Expected Result : 
+
+The system should validate all mandatory UPI details before placing the order. The order should *not be placed* until valid payment information is entered.
+
+Actual Result : 
+
+After selecting a product, adding it to the cart, and choosing *UPI*  as the payment method, the user can place the order without entering the required card details.",,apsha hassan,712020:60429119-426b-4bef-817e-98d0e0bbf31b,,,,,,,,,,,,,,,ApprovalsCFValue{approvals=[]},,,,{},,,,,,,,,,,,,0|i0000u:9,,,,,,,,,,,,,,,,,,,,To Do,15/Sep/26 4:00 PM
+Place order successfully - Checkout.,SHOP-36,10196,Bug,To Do,SHOP,ShopEase,software,apsha hassan,712020:60429119-426b-4bef-817e-98d0e0bbf31b,,Medium,,,,apsha hassan,712020:60429119-426b-4bef-817e-98d0e0bbf31b,apsha hassan,712020:60429119-426b-4bef-817e-98d0e0bbf31b,15/Sep/26 3:47 PM,15/Sep/26 3:47 PM,,,,0,"After successfully placing the order, no “place order successfully” message/text is displayed/generated on the page.
+
+Steps to Reproduce : 
+
+# Select the desirable product.
+# Click on Add to Card.
+# Fill the Address.
+# Click on Proceed to Checkout.
+#  Review order.
+# Place order successfully.
+
+Expected Result  : 
+
+“Place order Successfully “ message/text need to be displayed on the page after placing the order.
+
+Actual Result : 
+
+ “Place order Successfully “ message/text is not displayed on the page after placing the order.",,apsha hassan,712020:60429119-426b-4bef-817e-98d0e0bbf31b,,,,,,,,,15/Sep/26 3:46 PM;9e1afd8d-94a5-46d3-b7c1-60f4d634b6ab;order.png;https://apshahassan1100.atlassian.net/rest/api/3/attachment/content/10129,,,,,,ApprovalsCFValue{approvals=[]},,,,{},,,,,,,,,,,,,0|i0000u:i,,,,,,,,,,,,,,,,,,,,To Do,15/Sep/26 3:47 PM
+Send confirmation email - Checkout.,SHOP-35,10195,Bug,To Do,SHOP,ShopEase,software,apsha hassan,712020:60429119-426b-4bef-817e-98d0e0bbf31b,,Medium,,,,apsha hassan,712020:60429119-426b-4bef-817e-98d0e0bbf31b,apsha hassan,712020:60429119-426b-4bef-817e-98d0e0bbf31b,15/Sep/26 3:39 PM,15/Sep/26 3:39 PM,15/Sep/26 3:41 PM,,,0,"No Confirmation Email is send to the registered email after placing the order successfully.
+
+Steps to Reproduce.
+
+# Select the desirable product.
+# Click on Add to Card.
+# Fill the Address.
+# Click on Proceed to Checkout.
+#  Review order.
+# Place order successfully.
+# Generate Order ID.
+# Send confirmation email.
+
+Expected Result : 
+
+Confirmation Email is sent to the registered email.
+
+Actual Result : 
+
+No Confirmation Email is send to the registered email",,apsha hassan,712020:60429119-426b-4bef-817e-98d0e0bbf31b,,,,,,,,,,,,,,,ApprovalsCFValue{approvals=[]},,,,{},,,,,,,,,,,,,0|i0000u:,,,,,,,,,,,,,,,,,,,,To Do,15/Sep/26 3:39 PM
+"Hug n Feel Soft Teddy Bear 3 Feet,",SHOP-34,10194,Bug,To Do,SHOP,ShopEase,software,apsha hassan,712020:60429119-426b-4bef-817e-98d0e0bbf31b,,High,,,,apsha hassan,712020:60429119-426b-4bef-817e-98d0e0bbf31b,apsha hassan,712020:60429119-426b-4bef-817e-98d0e0bbf31b,15/Sep/26 3:17 PM,15/Sep/26 3:17 PM,,,,0,"The product is listed as *“Hug n Feel Soft Teddy Bear 3 Feet”*, but the displayed image does not clearly show a 3-foot teddy bear. It appears to be a close-up/unclear image.
+
+Steps to Reproduce :
+
+# Click on Search Button.
+# Click on Search category - Toy
+# Click on *Hug n Feel Soft Teddy Bear 3 Feet*
+# Upload Image.
+
+Expected Result :
+
+The product image should clearly display the *Hug n Feel Soft Teddy Bear 3 Feet* and should accurately represent the product.
+
+Actual Result :
+
+An unclear/incorrect image is displayed for the “Hug n Feel Soft Teddy Bear 3 Feet” product.",,apsha hassan,712020:60429119-426b-4bef-817e-98d0e0bbf31b,,,,,,,,,15/Sep/26 3:17 PM;9e1afd8d-94a5-46d3-b7c1-60f4d634b6ab;teddy.png;https://apshahassan1100.atlassian.net/rest/api/3/attachment/content/10127,,,,,,ApprovalsCFValue{approvals=[]},,,,{},,,,,,,,,,,,,0|i00032:i,,,,,,,,,,,,,,,,,,,,To Do,15/Sep/26 3:17 PM
+L'Oreal Paris Revitalift Serum,SHOP-33,10193,Bug,To Do,SHOP,ShopEase,software,apsha hassan,712020:60429119-426b-4bef-817e-98d0e0bbf31b,,High,,,,apsha hassan,712020:60429119-426b-4bef-817e-98d0e0bbf31b,apsha hassan,712020:60429119-426b-4bef-817e-98d0e0bbf31b,15/Sep/26 3:11 PM,15/Sep/26 3:11 PM,15/Sep/26 5:55 PM,,,0,"The brand name represents the “LOreal Paris ” Revita-lift Serum, but perhaps the image uploaded are of the different brand i.e Necessaire.
+
+Steps to Reproduce :
+
+# Click on Search Button.
+# Click on Search category - beauty
+# Click on Loreal Paris Re-vita-lift Serum
+# Upload Images.
+
+Expected Result  :
+
+The same brand Loreal Paris Re-vita-lift Serum, need to be displayed on the page.
+
+Actual Result :
+
+Different serum brand  is displayed on the Loreal Paris Re-vita-lift Serum brand.",,apsha hassan,712020:60429119-426b-4bef-817e-98d0e0bbf31b,,,,,,,,,15/Sep/26 3:11 PM;9e1afd8d-94a5-46d3-b7c1-60f4d634b6ab;loreal.png;https://apshahassan1100.atlassian.net/rest/api/3/attachment/content/10125,,,,,,ApprovalsCFValue{approvals=[]},,,,{},,,,,,,,,,,,,0|i00031:r,,,,,,,,,,,,,,,,,,,,To Do,15/Sep/26 3:11 PM
+Park Avenue Good Morning Perfume,SHOP-32,10192,Bug,To Do,SHOP,ShopEase,software,apsha hassan,712020:60429119-426b-4bef-817e-98d0e0bbf31b,,Medium,,,,apsha hassan,712020:60429119-426b-4bef-817e-98d0e0bbf31b,apsha hassan,712020:60429119-426b-4bef-817e-98d0e0bbf31b,15/Sep/26 3:06 PM,15/Sep/26 3:06 PM,15/Sep/26 5:52 PM,,,0,"The brand name represents the “Park Avenue” good morning perfume, but perhaps the image uploaded are of the different brand i.e Chanel
+
+Steps to Reproduce :
+
+# Click on Search Button.
+# Click on Search category - beauty
+# Click on Park Avenue Good Morning Perfume
+# Upload Images.
+
+Expected Result  :
+
+The same brand Park Avenue Good Morning Perfume, need to be displayed on the page.
+
+Actual Result :
+
+Different perfume brand  is displayed on the Park Avenue Good Morning Perfume brand.",,apsha hassan,712020:60429119-426b-4bef-817e-98d0e0bbf31b,,,,,,,,,15/Sep/26 3:06 PM;9e1afd8d-94a5-46d3-b7c1-60f4d634b6ab;chanel.png;https://apshahassan1100.atlassian.net/rest/api/3/attachment/content/10123,,,,,,ApprovalsCFValue{approvals=[]},,,,{},,,,,,,,,,,,,0|i00031:i,,,,,,,,,,,,,,,,,,,,To Do,15/Sep/26 3:06 PM
+Philips Digital Air Fryer XL,SHOP-31,10191,Bug,To Do,SHOP,ShopEase,software,apsha hassan,712020:60429119-426b-4bef-817e-98d0e0bbf31b,,Medium,,,,apsha hassan,712020:60429119-426b-4bef-817e-98d0e0bbf31b,apsha hassan,712020:60429119-426b-4bef-817e-98d0e0bbf31b,15/Sep/26 2:17 PM,15/Sep/26 2:17 PM,15/Sep/26 5:46 PM,,,0,"No image displayed on the page of the Philips Digital Air Fryer XL as a second image.
+
+Steps to Reproduce :
+
+# Click on Search button.
+# Click on Search Category - Home & Kitchen.
+# Click on Philips Digital Air Fryer XL
+# Upload the Image of the Philips Digital Air Fryer XL
+
+Expected Result :
+
+The image of the Philips Digital Air Fryer XL) need to be displayed on the page as a second image.
+
+Actual Result :
+
+No, image of the Philips Digital Air Fryer XL  displayed on the page as a second image.",,apsha hassan,712020:60429119-426b-4bef-817e-98d0e0bbf31b,,,,,,,,,15/Sep/26 2:16 PM;9e1afd8d-94a5-46d3-b7c1-60f4d634b6ab;air fryer 2.png;https://apshahassan1100.atlassian.net/rest/api/3/attachment/content/10121,,,,,,ApprovalsCFValue{approvals=[]},,,,{},,,,,,,,,,,,,0|i0002x:,,,,,,,,,,,,,,,,,,,,To Do,15/Sep/26 2:17 PM
+Philips Digital Air Fryer XL,SHOP-30,10190,Bug,To Do,SHOP,ShopEase,software,apsha hassan,712020:60429119-426b-4bef-817e-98d0e0bbf31b,,Medium,,,,apsha hassan,712020:60429119-426b-4bef-817e-98d0e0bbf31b,apsha hassan,712020:60429119-426b-4bef-817e-98d0e0bbf31b,15/Sep/26 2:09 PM,15/Sep/26 2:10 PM,15/Sep/26 5:55 PM,,,0,"The image currently displayed does not match the intended product. It shows a child riding a bicycle, whereas it should display the Philips Digital Air Fryer XL
+
+Steps to Reproduce : 
+
+# Click on Search Button.
+# Click on Search category - Home & Kitchen.
+# Click on Philips Digital Air Fryer XL.
+# Upload Image.
+
+Expected Result : 
+
+The Philips Digital Air Fryer XL image should be displayed.
+
+Actual Result : 
+
+An image of a child riding a bicycle is displayed.",,apsha hassan,712020:60429119-426b-4bef-817e-98d0e0bbf31b,,,,,,,,,15/Sep/26 2:09 PM;9e1afd8d-94a5-46d3-b7c1-60f4d634b6ab;air fryer 1.png;https://apshahassan1100.atlassian.net/rest/api/3/attachment/content/10119,,,,,,ApprovalsCFValue{approvals=[]},,,,{},,,,,,,,,,,,,0|i00032:,,,,,,,,,,,,,,,,,,,,To Do,15/Sep/26 2:09 PM
+Red Tape Men Walking Shoes,SHOP-29,10189,Bug,To Do,SHOP,ShopEase,software,apsha hassan,712020:60429119-426b-4bef-817e-98d0e0bbf31b,,Medium,,,,apsha hassan,712020:60429119-426b-4bef-817e-98d0e0bbf31b,apsha hassan,712020:60429119-426b-4bef-817e-98d0e0bbf31b,15/Sep/26 1:35 PM,15/Sep/26 5:51 PM,15/Sep/26 5:50 PM,,,0,"The brand name represents the “Red Tape” men walking shoes, but perhaps the image uploaded are of the different brand i.e Puma as a first image.
+
+Steps to Reproduce :  
+
+# Click on Search Button.
+# Click on Search category - Fashion.
+# Click on Red Tape Men Walking Shoes.
+# Upload Image.
+
+Expected Result  :  
+
+The same brand Red Tape Men walking shoes, need to be displayed on the page as a first page.
+
+Actual Result :  
+
+Different brand shoe is displayed on the Red Tape Men walking shoe brand. ",,apsha hassan,712020:60429119-426b-4bef-817e-98d0e0bbf31b,,,,,,,,,15/Sep/26 1:35 PM;9e1afd8d-94a5-46d3-b7c1-60f4d634b6ab;puma .png;https://apshahassan1100.atlassian.net/rest/api/3/attachment/content/10117,,,,,,ApprovalsCFValue{approvals=[]},,,,{},,,,,,,,,,,,,0|i00031:,,,,,,,,,,,,,,,,,,,,To Do,15/Sep/26 1:35 PM
+Samsung Galaxy S23 Blue Ultra / OnePlus Nord CE3 Lite 5G (Pastel Lime),SHOP-28,10188,Bug,To Do,SHOP,ShopEase,software,apsha hassan,712020:60429119-426b-4bef-817e-98d0e0bbf31b,,High,,,,apsha hassan,712020:60429119-426b-4bef-817e-98d0e0bbf31b,apsha hassan,712020:60429119-426b-4bef-817e-98d0e0bbf31b,15/Sep/26 1:19 PM,15/Sep/26 1:19 PM,15/Sep/26 5:57 PM,,,0,"The same images displayed on the both Samsung Galaxy S23 Blue Ultra and OnePlus Nord CE3 Lite 5G - Pastel Lime. The images are swap with a image 1 , image 2 (Samsung Galaxy S23 Blue Ultra) = image 2, image 1. (OnePlus Nord CE3 Lite 5G). 
+
+Steps to Reproduce : 
+
+# Click on Search Button.
+# Click on Search category - Electronics.
+# Click on Samsung Galaxy S23 Blue Ultra
+# Upload Images. 
+
+Expected Result  : 
+
+The Samsung Galaxy S23 Blue Ultra, pictures need to be displayed on the page.
+
+Actual Result : 
+
+Duplicate images displayed on the Samsung Galaxy S23 Blue Ultra page same as OnePlus Nord CE3 Lite 5G.
+",,apsha hassan,712020:60429119-426b-4bef-817e-98d0e0bbf31b,,,,,,,,,15/Sep/26 1:19 PM;9e1afd8d-94a5-46d3-b7c1-60f4d634b6ab;one plus 1.png;https://apshahassan1100.atlassian.net/rest/api/3/attachment/content/10113,15/Sep/26 1:19 PM;9e1afd8d-94a5-46d3-b7c1-60f4d634b6ab;one plus 2.png;https://apshahassan1100.atlassian.net/rest/api/3/attachment/content/10112,15/Sep/26 1:18 PM;9e1afd8d-94a5-46d3-b7c1-60f4d634b6ab;sumsung 2.png;https://apshahassan1100.atlassian.net/rest/api/3/attachment/content/10111,15/Sep/26 1:18 PM;9e1afd8d-94a5-46d3-b7c1-60f4d634b6ab;sumsung photo1 .png;https://apshahassan1100.atlassian.net/rest/api/3/attachment/content/10110,,,ApprovalsCFValue{approvals=[]},,,,{},,,,,,,,,,,,,0|i0002z:,,,,,,,,,,,,,,,,,,,,To Do,15/Sep/26 1:19 PM
+Fire-Boltt Phoenix Smartwatch.,SHOP-27,10187,Bug,To Do,SHOP,ShopEase,software,apsha hassan,712020:60429119-426b-4bef-817e-98d0e0bbf31b,,High,,,,apsha hassan,712020:60429119-426b-4bef-817e-98d0e0bbf31b,apsha hassan,712020:60429119-426b-4bef-817e-98d0e0bbf31b,15/Sep/26 12:56 PM,15/Sep/26 12:56 PM,15/Sep/26 5:56 PM,,,0,"No image displayed on the page of the Fire-Bolt Phoenix Smartwatch as a first image under Electronics category.
+
+Steps to Reproduce :
+
+# Click on Search button.
+# Click on Search Category - Electronics.
+# Click on Fire-Bolt Phoenix Smartwatch
+# Upload the Image of the Fire-Bolt Phoenix Smartwatch
+
+Expected Result :
+
+The image of the Fire-Bolt Phoenix Smartwatch need to be displayed on the page as a first image.
+
+Actual Result :
+
+No, image of the Fire-Bolt Phoenix Smartwatch  displayed on the page as a first image.",,apsha hassan,712020:60429119-426b-4bef-817e-98d0e0bbf31b,,,,,,,,,15/Sep/26 12:56 PM;9e1afd8d-94a5-46d3-b7c1-60f4d634b6ab;smartwatch - fire boltt.png;https://apshahassan1100.atlassian.net/rest/api/3/attachment/content/10105,,,,,,ApprovalsCFValue{approvals=[]},,,,{},,,,,,,,,,,,,0|i00033:,,,,,,,,,,,,,,,,,,,,To Do,15/Sep/26 12:56 PM
+Asus Vivo-Book 15 OLED (Slim Laptop),SHOP-26,10186,Bug,To Do,SHOP,ShopEase,software,apsha hassan,712020:60429119-426b-4bef-817e-98d0e0bbf31b,,High,,,,apsha hassan,712020:60429119-426b-4bef-817e-98d0e0bbf31b,apsha hassan,712020:60429119-426b-4bef-817e-98d0e0bbf31b,15/Sep/26 12:49 PM,15/Sep/26 12:49 PM,15/Sep/26 5:45 PM,,,0,"No image displayed on the page of the Asus Vivo-Book 15 OLED - Slim Laptop as a first image.
+
+Steps to Reproduce : 
+
+# Click on Search button.
+# Click on Search Category - Electronics.
+# Click on Asus Vivo-Book 15 OLED (Slim Laptop).
+# Upload the Image of the Asus Vivo-Book 15 OLED (Slim Laptop).
+
+Expected Result : 
+
+The image of the Asus Vivo-Book 15 OLED (Slim Laptop) need to be displayed on the page as a first image.
+
+Actual Result : 
+
+No, image of the Asus Vivo-Book 15 OLED (Slim Laptop)  displayed on the page as a first image.",,apsha hassan,712020:60429119-426b-4bef-817e-98d0e0bbf31b,,,,,,,,,15/Sep/26 12:49 PM;9e1afd8d-94a5-46d3-b7c1-60f4d634b6ab;laptop.png;https://apshahassan1100.atlassian.net/rest/api/3/attachment/content/10103,,,,,,ApprovalsCFValue{approvals=[]},,,,{},,,,,,,,,,,,,0|i0002v:,,,,,,,,,,,,,,,,,,,,To Do,15/Sep/26 12:49 PM
+ Air-Bass True Wireless Earbuds - boult Audio,SHOP-25,10185,Bug,To Do,SHOP,ShopEase,software,apsha hassan,712020:60429119-426b-4bef-817e-98d0e0bbf31b,,High,,,,apsha hassan,712020:60429119-426b-4bef-817e-98d0e0bbf31b,apsha hassan,712020:60429119-426b-4bef-817e-98d0e0bbf31b,15/Sep/26 12:34 PM,15/Sep/26 12:34 PM,15/Sep/26 5:45 PM,,,0,"The second image upload of the Air- Bass True Wireless Earbuds - boult Audio , is silver heart necklace has been upload on the Electronics category.
+
+Steps to Reproduce:
+
+# Click on Search button.
+# Click on Category search - Electronics.
+# Click on Air- Bass True Wireless Earbuds - boult Audio.
+# Click on First Image.
+# Click on Second Image.
+
+Expected Result :
+
+The Second image also should be the “Air- Bass True Wireless Earbuds - boult Audio”.
+
+Actual Result :
+
+The second image upload is the silver heart necklace.",,apsha hassan,712020:60429119-426b-4bef-817e-98d0e0bbf31b,,,,,,,,,15/Sep/26 12:34 PM;9e1afd8d-94a5-46d3-b7c1-60f4d634b6ab;earpods - necklace.png;https://apshahassan1100.atlassian.net/rest/api/3/attachment/content/10101,,,,,,ApprovalsCFValue{approvals=[]},,,,{},,,,,,,,,,,,,0|i0002n:,,,,,,,,,,,,,,,,,,,,To Do,15/Sep/26 12:34 PM
+Sports.,SHOP-24,10152,Bug,To Do,SHOP,ShopEase,software,apsha hassan,712020:60429119-426b-4bef-817e-98d0e0bbf31b,,Medium,,,,apsha hassan,712020:60429119-426b-4bef-817e-98d0e0bbf31b,apsha hassan,712020:60429119-426b-4bef-817e-98d0e0bbf31b,14/Sep/26 11:09 PM,14/Sep/26 11:09 PM,,,,0,"The search button for “Sports” category need to be displayed the “Sports” list products but perhaps, the “Electronic” category list product displayed on the page, instead the of the Sports list products. The Product which is displayed on the page, is labeled as “electronics” under the image. 
+
+Steps to Reproduce : 
+
+# Click on Search Button.
+# Search for Sports.
+#  Sports list products need to be display on the page.
+
+Expected Result: 
+
+Sports list products need to be display on the page.
+
+Actual Result:
+
+No sports products displaying on the page.",,apsha hassan,712020:60429119-426b-4bef-817e-98d0e0bbf31b,,,,,,,,,14/Sep/26 11:09 PM;9e1afd8d-94a5-46d3-b7c1-60f4d634b6ab;sports.png;https://apshahassan1100.atlassian.net/rest/api/3/attachment/content/10067,,,,,,ApprovalsCFValue{approvals=[]},,,,{},,,,,,,,,,,,,0|i0001v:0i,,,,,,,,,,,,,,,,,,,,To Do,14/Sep/26 11:09 PM
+Automotive - Brand.,SHOP-23,10151,Bug,To Do,SHOP,ShopEase,software,apsha hassan,712020:60429119-426b-4bef-817e-98d0e0bbf31b,,Medium,,,,apsha hassan,712020:60429119-426b-4bef-817e-98d0e0bbf31b,apsha hassan,712020:60429119-426b-4bef-817e-98d0e0bbf31b,14/Sep/26 10:56 PM,14/Sep/26 10:56 PM,,,,0,"The search button for “Automotive” is not working. When we search by “Automotive” no brand name is displaying.
+
+Steps to Reproduce.
+
+# Click on search button.
+# Search by “Automotive""
+
+Expected Result:
+
+The search button for “Automotive” need to be displayed the brand name, while typing.
+
+Actual Result:
+
+The search button for “Automotive” is not displaying the brand name, while typing.",,apsha hassan,712020:60429119-426b-4bef-817e-98d0e0bbf31b,,,,,,,,,14/Sep/26 10:56 PM;9e1afd8d-94a5-46d3-b7c1-60f4d634b6ab;automotive.png;https://apshahassan1100.atlassian.net/rest/api/3/attachment/content/10065,,,,,,ApprovalsCFValue{approvals=[]},,,,{},,,,,,,,,,,,,0|i0001v:1,,,,,,,,,,,,,,,,,,,,To Do,14/Sep/26 10:56 PM
+Automotive - Product.,SHOP-22,10150,Bug,To Do,SHOP,ShopEase,software,apsha hassan,712020:60429119-426b-4bef-817e-98d0e0bbf31b,,Medium,,,,apsha hassan,712020:60429119-426b-4bef-817e-98d0e0bbf31b,apsha hassan,712020:60429119-426b-4bef-817e-98d0e0bbf31b,14/Sep/26 10:55 PM,14/Sep/26 10:55 PM,,,,0,"The search button for “Automotive” is not working. When we search by “Automotive” no product name is displaying.
+
+Steps to Reproduce.
+
+# Click on search button.
+# Search by “Automotive""
+
+Expected Result:
+
+The search button for “Automotive” need to be displayed the product name, while typing.
+
+Actual Result:
+
+The search button for “Automotive” is not displaying the product name, while typing.",,apsha hassan,712020:60429119-426b-4bef-817e-98d0e0bbf31b,,,,,,,,,14/Sep/26 10:55 PM;9e1afd8d-94a5-46d3-b7c1-60f4d634b6ab;automotive.png;https://apshahassan1100.atlassian.net/rest/api/3/attachment/content/10063,,,,,,ApprovalsCFValue{approvals=[]},,,,{},,,,,,,,,,,,,0|i0001v:2,,,,,,,,,,,,,,,,,,,,To Do,14/Sep/26 10:55 PM
+Grocery - Brand.,SHOP-21,10149,Bug,To Do,SHOP,ShopEase,software,apsha hassan,712020:60429119-426b-4bef-817e-98d0e0bbf31b,,Medium,,,,apsha hassan,712020:60429119-426b-4bef-817e-98d0e0bbf31b,apsha hassan,712020:60429119-426b-4bef-817e-98d0e0bbf31b,14/Sep/26 10:52 PM,14/Sep/26 10:52 PM,,,,0,"The search button for “Grocery” is not working. When we search by “Grocery” no brand name is displaying.
+
+Steps to Reproduce.
+
+# Click on search button.
+# Search by “Grocery""
+
+Expected Result:
+
+The search button for “Grocery” need to be displayed the brand name, while typing.
+
+Actual Result:
+
+The search button for “Grocery” is not displaying the brand name, while typing.",,apsha hassan,712020:60429119-426b-4bef-817e-98d0e0bbf31b,,,,,,,,,14/Sep/26 10:52 PM;9e1afd8d-94a5-46d3-b7c1-60f4d634b6ab;grocery.png;https://apshahassan1100.atlassian.net/rest/api/3/attachment/content/10061,,,,,,ApprovalsCFValue{approvals=[]},,,,{},,,,,,,,,,,,,0|i0001v:4,,,,,,,,,,,,,,,,,,,,To Do,14/Sep/26 10:52 PM
+Grocery - Product,SHOP-20,10148,Bug,To Do,SHOP,ShopEase,software,apsha hassan,712020:60429119-426b-4bef-817e-98d0e0bbf31b,,Medium,,,,apsha hassan,712020:60429119-426b-4bef-817e-98d0e0bbf31b,apsha hassan,712020:60429119-426b-4bef-817e-98d0e0bbf31b,14/Sep/26 10:51 PM,14/Sep/26 10:51 PM,,,,0,"The search button for “Grocery” is not working. When we search by “Grocery” no product name is displaying.
+
+Steps to Reproduce.
+
+# Click on search button.
+# Search by “Grocery""
+
+Expected Result:
+
+The search button for “Grocery” need to be displayed the product name, while typing.
+
+Actual Result:
+
+The search button for “Grocery” is not displaying the product name, while typing.",,apsha hassan,712020:60429119-426b-4bef-817e-98d0e0bbf31b,,,,,,,,,14/Sep/26 10:51 PM;9e1afd8d-94a5-46d3-b7c1-60f4d634b6ab;grocery.png;https://apshahassan1100.atlassian.net/rest/api/3/attachment/content/10059,,,,,,ApprovalsCFValue{approvals=[]},,,,{},,,,,,,,,,,,,0|i0001v:9,,,,,,,,,,,,,,,,,,,,To Do,14/Sep/26 10:51 PM
+Beauty - Brand.,SHOP-19,10147,Bug,To Do,SHOP,ShopEase,software,apsha hassan,712020:60429119-426b-4bef-817e-98d0e0bbf31b,,Medium,,,,apsha hassan,712020:60429119-426b-4bef-817e-98d0e0bbf31b,apsha hassan,712020:60429119-426b-4bef-817e-98d0e0bbf31b,14/Sep/26 10:47 PM,14/Sep/26 10:47 PM,15/Sep/26 5:51 PM,,,0,"The search button for “Fashion” is not working. When we search by “Fashion” no brand name is displaying.
+
+Steps to Reproduce.
+
+# Click on search button.
+# Search by “Fashion""
+
+Expected Result:
+
+The search button for “Fashion” need to be displayed the brand (Loreal) name, while typing.
+
+Actual Result:
+
+The search button for “Fashion” is not displaying the brand (Loreal) name, while typing.",,apsha hassan,712020:60429119-426b-4bef-817e-98d0e0bbf31b,,,,,,,,,14/Sep/26 10:46 PM;9e1afd8d-94a5-46d3-b7c1-60f4d634b6ab;beautuy.png;https://apshahassan1100.atlassian.net/rest/api/3/attachment/content/10056,14/Sep/26 10:47 PM;9e1afd8d-94a5-46d3-b7c1-60f4d634b6ab;loreal.png;https://apshahassan1100.atlassian.net/rest/api/3/attachment/content/10057,,,,,ApprovalsCFValue{approvals=[]},,,,{},,,,,,,,,,,,,0|i0001v:i,,,,,,,,,,,,,,,,,,,,To Do,14/Sep/26 10:47 PM
+Beauty - Product.,SHOP-18,10146,Bug,To Do,SHOP,ShopEase,software,apsha hassan,712020:60429119-426b-4bef-817e-98d0e0bbf31b,,Medium,,,,apsha hassan,712020:60429119-426b-4bef-817e-98d0e0bbf31b,apsha hassan,712020:60429119-426b-4bef-817e-98d0e0bbf31b,14/Sep/26 10:43 PM,14/Sep/26 10:43 PM,,,,0,"The search button for “Beauty” is not working. When we search by “Fashion” no product name is displaying.
+
+Steps to Reproduce.
+
+# Click on search button.
+# Search by “Beauty""
+
+Expected Result:
+
+The search button for “Beauty” need to be displayed the product name, while typing.
+
+Actual Result:
+
+The search button for “Beauty” is not displaying the product name, while typing.",,apsha hassan,712020:60429119-426b-4bef-817e-98d0e0bbf31b,,,,,,,,,14/Sep/26 10:43 PM;9e1afd8d-94a5-46d3-b7c1-60f4d634b6ab;beautuy.png;https://apshahassan1100.atlassian.net/rest/api/3/attachment/content/10053,,,,,,ApprovalsCFValue{approvals=[]},,,,{},,,,,,,,,,,,,0|i0001w:,,,,,,,,,,,,,,,,,,,,To Do,14/Sep/26 10:43 PM
+Home & Kitchen - Product.,SHOP-17,10145,Bug,To Do,SHOP,ShopEase,software,apsha hassan,712020:60429119-426b-4bef-817e-98d0e0bbf31b,,Medium,,,,apsha hassan,712020:60429119-426b-4bef-817e-98d0e0bbf31b,apsha hassan,712020:60429119-426b-4bef-817e-98d0e0bbf31b,14/Sep/26 8:16 PM,14/Sep/26 8:16 PM,,,,0,"The search button for “Toys & Baby” (category) is not working. When we search by just “Home” no product  is visible and same  with the “Kitchen” word, and also no product is visible by the name “Toys & Baby”.
+
+Steps to Reproduce:
+
+# Click on search button.
+# Search by “Home & Kitchen” , “Home” , “Kitchen” and “Home and Kitchen”
+
+Expected Result:
+
+The search button for “Home & Kitchen” (category) need to be displayed the product name, while typing.
+
+Actual Result:
+
+The search button for “Home & Kitchen”  (category) is not displaying the product name, while typing.",,apsha hassan,712020:60429119-426b-4bef-817e-98d0e0bbf31b,,,,,,,,,14/Sep/26 8:16 PM;9e1afd8d-94a5-46d3-b7c1-60f4d634b6ab;home n kitchen.png;https://apshahassan1100.atlassian.net/rest/api/3/attachment/content/10051,,,,,,ApprovalsCFValue{approvals=[]},,,,{},,,,,,,,,,,,,0|i0002f:,,,,,,,,,,,,,,,,,,,,To Do,14/Sep/26 8:16 PM
+Home & Kitchen - Brand.,SHOP-16,10144,Bug,To Do,SHOP,ShopEase,software,apsha hassan,712020:60429119-426b-4bef-817e-98d0e0bbf31b,,Medium,,,,apsha hassan,712020:60429119-426b-4bef-817e-98d0e0bbf31b,apsha hassan,712020:60429119-426b-4bef-817e-98d0e0bbf31b,14/Sep/26 8:14 PM,14/Sep/26 8:14 PM,,,,0,"The search button for “Toys & Baby” (category) is not working. When we search by just “Home” no brand is visible and same  with the “Kitchen” word, and also no brand is visible by the name “Toys & Baby”.
+
+Steps to Reproduce:
+
+# Click on search button.
+# Search by “Home & Kitchen” , “Home” , “Kitchen” and “Home and Kitchen”
+
+Expected Result:
+
+The search button for “Home & Kitchen” (category) need to be displayed the brand name, while typing.
+
+Actual Result:
+
+The search button for “Home & Kitchen”  (category) is not displaying the brand name, while typing.",,apsha hassan,712020:60429119-426b-4bef-817e-98d0e0bbf31b,,,,,,,,,14/Sep/26 8:14 PM;9e1afd8d-94a5-46d3-b7c1-60f4d634b6ab;home n kitchen.png;https://apshahassan1100.atlassian.net/rest/api/3/attachment/content/10049,,,,,,ApprovalsCFValue{approvals=[]},,,,{},,,,,,,,,,,,,0|i00027:,,,,,,,,,,,,,,,,,,,,To Do,14/Sep/26 8:14 PM
+Fashion - Brand.,SHOP-15,10143,Bug,To Do,SHOP,ShopEase,software,apsha hassan,712020:60429119-426b-4bef-817e-98d0e0bbf31b,,Medium,,,,apsha hassan,712020:60429119-426b-4bef-817e-98d0e0bbf31b,apsha hassan,712020:60429119-426b-4bef-817e-98d0e0bbf31b,14/Sep/26 7:56 PM,14/Sep/26 7:56 PM,,,,0,"The search button for “Fashion” is not working. When we search by “Fashion” no brand name is displaying.
+
+Steps to Reproduce.
+
+# Click on search button.
+# Search by “Fashion""
+
+Expected Result:
+
+The search button for “Fashion” need to be displayed the brand name, while typing.
+
+Actual Result:
+
+The search button for “Fashion” is not displaying the brand name, while typing.",,apsha hassan,712020:60429119-426b-4bef-817e-98d0e0bbf31b,,,,,,,,,14/Sep/26 7:56 PM;9e1afd8d-94a5-46d3-b7c1-60f4d634b6ab;fashion.png;https://apshahassan1100.atlassian.net/rest/api/3/attachment/content/10047,,,,,,ApprovalsCFValue{approvals=[]},,,,{},,,,,,,,,,,,,0|i0001x:,,,,,,,,,,,,,,,,,,,,To Do,14/Sep/26 7:56 PM
+Fashion - Product.,SHOP-14,10142,Bug,To Do,SHOP,ShopEase,software,apsha hassan,712020:60429119-426b-4bef-817e-98d0e0bbf31b,,Medium,,,,apsha hassan,712020:60429119-426b-4bef-817e-98d0e0bbf31b,apsha hassan,712020:60429119-426b-4bef-817e-98d0e0bbf31b,14/Sep/26 7:54 PM,14/Sep/26 7:54 PM,14/Sep/26 10:39 PM,,,0,"The search button for “Fashion” is not working. When we search by “Fashion” no product name is displaying.
+
+Steps to Reproduce.
+
+# Click on search button.
+# Search by “Fashion""
+
+Expected Result:
+
+The search button for “Fashion” need to be displayed the product name, while typing.
+
+Actual Result:
+
+The search button for “Fashion” is not displaying the product name, while typing.",,apsha hassan,712020:60429119-426b-4bef-817e-98d0e0bbf31b,,,,,,,,,14/Sep/26 7:54 PM;9e1afd8d-94a5-46d3-b7c1-60f4d634b6ab;fashion.png;https://apshahassan1100.atlassian.net/rest/api/3/attachment/content/10045,,,,,,ApprovalsCFValue{approvals=[]},,,,{},,,,,,,,,,,,,0|i0001v:,,,,,,,,,,,,,,,,,,,,To Do,14/Sep/26 7:54 PM
+Electronics - Brand.,SHOP-13,10141,Bug,To Do,SHOP,ShopEase,software,apsha hassan,712020:60429119-426b-4bef-817e-98d0e0bbf31b,,Medium,,,,apsha hassan,712020:60429119-426b-4bef-817e-98d0e0bbf31b,apsha hassan,712020:60429119-426b-4bef-817e-98d0e0bbf31b,14/Sep/26 7:43 PM,14/Sep/26 7:43 PM,15/Sep/26 5:46 PM,,,0,"The search button for “Electronics” is not working. When we search by “Electronics” no brand name is displaying.
+
+Steps to Reproduce.
+
+# Click on search button.
+# Search by “Electronics""
+
+Expected Result:
+
+The search button for “Electronics” need to be displayed the brand name, while typing.
+
+Actual Result:
+
+The search button for “Electronics” is not displaying the brand name, while typing.",,apsha hassan,712020:60429119-426b-4bef-817e-98d0e0bbf31b,,,,,,,,,14/Sep/26 7:43 PM;9e1afd8d-94a5-46d3-b7c1-60f4d634b6ab;electronics.png;https://apshahassan1100.atlassian.net/rest/api/3/attachment/content/10043,,,,,,ApprovalsCFValue{approvals=[]},,,,{},,,,,,,,,,,,,0|i0001z:,,,,,,,,,,,,,,,,,,,,To Do,14/Sep/26 7:43 PM
+Electronics - Product.,SHOP-12,10140,Bug,To Do,SHOP,ShopEase,software,apsha hassan,712020:60429119-426b-4bef-817e-98d0e0bbf31b,,High,,,,apsha hassan,712020:60429119-426b-4bef-817e-98d0e0bbf31b,apsha hassan,712020:60429119-426b-4bef-817e-98d0e0bbf31b,14/Sep/26 7:41 PM,14/Sep/26 7:41 PM,14/Sep/26 7:41 PM,,,0,"The search button for “Electronics” is not working. When we search by “Electronics” no product name is displaying.
+
+Steps to Reproduce.
+
+# Click on search button.
+# Search by “Electronics""
+
+Expected Result:
+
+The search button for “Electronics” need to be displayed the product name, while typing.
+
+Actual Result:
+
+The search button for “Electronics” is not displaying the product name, while typing.",,apsha hassan,712020:60429119-426b-4bef-817e-98d0e0bbf31b,,,,,,,,,14/Sep/26 7:40 PM;9e1afd8d-94a5-46d3-b7c1-60f4d634b6ab;electronics.png;https://apshahassan1100.atlassian.net/rest/api/3/attachment/content/10041,,,,,,ApprovalsCFValue{approvals=[]},,,,{},,,,,,,,,,,,,0|i0001r:,,,,,,,,,,,,,,,,,,,,To Do,14/Sep/26 7:41 PM
+Toys & Baby - Brand name.,SHOP-11,10139,Bug,To Do,SHOP,ShopEase,software,apsha hassan,712020:60429119-426b-4bef-817e-98d0e0bbf31b,,High,,,,apsha hassan,712020:60429119-426b-4bef-817e-98d0e0bbf31b,apsha hassan,712020:60429119-426b-4bef-817e-98d0e0bbf31b,14/Sep/26 6:28 PM,14/Sep/26 6:42 PM,14/Sep/26 8:05 PM,,,0,"The search button for “Toys & Baby” is not working. When we search by just “Toys” no brand is visible and same  with the “Baby” word, and also no brand is visible by the name “Toys & Baby”.
+
+Steps to Reproduce:
+
+# Click on search button.
+# Search by “Toys & Baby” , “Toys” , “Baby” and “Toys and Baby”
+
+Expected Result:
+
+The search button for “Toys & Baby” need to be displayed the brand name, while typing.
+
+Actual Result:
+
+The search button for “Toys & Baby” is not displaying the brand name, while typing.",,apsha hassan,712020:60429119-426b-4bef-817e-98d0e0bbf31b,,,,,,,,,14/Sep/26 6:28 PM;9e1afd8d-94a5-46d3-b7c1-60f4d634b6ab;toys n baby.png;https://apshahassan1100.atlassian.net/rest/api/3/attachment/content/10039,,,,,,ApprovalsCFValue{approvals=[]},,,,{},,,,,,,,,,,,,0|i0001j:,,,,,,,,,,,,,,,,,,,,To Do,14/Sep/26 6:28 PM
+Toys & Baby - Product.,SHOP-10,10138,Bug,To Do,SHOP,ShopEase,software,apsha hassan,712020:60429119-426b-4bef-817e-98d0e0bbf31b,,High,,,,apsha hassan,712020:60429119-426b-4bef-817e-98d0e0bbf31b,apsha hassan,712020:60429119-426b-4bef-817e-98d0e0bbf31b,14/Sep/26 6:25 PM,14/Sep/26 6:37 PM,14/Sep/26 10:38 PM,,,0,"The search button for “Toys & Baby” is not working. When we search by just “Toys” no product is visible and same with the “Baby” word, and also for the “Toys & Baby” no product is displayed.
+
+Steps to Reproduce:
+
+# Click on search button.
+# Search by “Toys & Baby” , “Toys” , “Baby” and “Toys and Baby”
+
+Expected Result:
+
+The search button for “Toys & Baby” , “Toys” , “Baby” need to be displayed the product , while typing.
+
+Actual Result:
+
+The search button for “Toys & Baby” is not been displayed the product, while typing.",,apsha hassan,712020:60429119-426b-4bef-817e-98d0e0bbf31b,,,,,,,,,14/Sep/26 6:24 PM;9e1afd8d-94a5-46d3-b7c1-60f4d634b6ab;toys n baby.png;https://apshahassan1100.atlassian.net/rest/api/3/attachment/content/10037,,,,,,ApprovalsCFValue{approvals=[]},,,,{},,,,,,,,,,,,,0|i0001b:,,,,,,,,,,,,,,,,,,,,To Do,14/Sep/26 6:25 PM
+Terms & Conditions - User Registration.,SHOP-9,10105,Bug,To Do,SHOP,ShopEase,software,apsha hassan,712020:60429119-426b-4bef-817e-98d0e0bbf31b,,High,,,,apsha hassan,712020:60429119-426b-4bef-817e-98d0e0bbf31b,apsha hassan,712020:60429119-426b-4bef-817e-98d0e0bbf31b,13/Sep/26 1:09 AM,14/Sep/26 6:01 PM,14/Sep/26 6:01 PM,,,0,"User must accept Terms & Conditions, but no Terms and Conditions displayed on the Registration Page.
+
+Steps to Reproduce.
+
+# Enter name.
+# Enter Email.
+# Enter Mobile number.
+# Click on Terms & Conditions. 
+
+Expected Result:
+
+User must accept Terms & Conditions on the Registration page.
+
+Actual Result:
+
+No Terms & Conditions are displayed for the user to accept on the Registration Page.",,apsha hassan,712020:60429119-426b-4bef-817e-98d0e0bbf31b,,,,,,,,,,,,,,,ApprovalsCFValue{approvals=[]},,,,{},,,,,,,,,,,,,0|i0000s:,,,,,,,,,,,,,,,,,,,,To Do,13/Sep/26 1:09 AM
+A welcome email.,SHOP-8,10104,Bug,To Do,SHOP,ShopEase,software,apsha hassan,712020:60429119-426b-4bef-817e-98d0e0bbf31b,,High,,,,apsha hassan,712020:60429119-426b-4bef-817e-98d0e0bbf31b,apsha hassan,712020:60429119-426b-4bef-817e-98d0e0bbf31b,13/Sep/26 1:05 AM,14/Sep/26 5:53 PM,15/Sep/26 3:33 PM,,,0,"A welcome email is not sent to the registered email.
+
+Steps to Reproduce.
+
+# Click on Registration 
+# Enter the email
+# Enter the password.
+# Click on Terms & Conditions.
+# Click on OTP verification.
+# A welcome email sent to registered mail.
+
+Expected Result:
+
+A welcome email is sent to the registered email.
+
+Actual Result:
+
+No welcome email is sent to the registered email.",,apsha hassan,712020:60429119-426b-4bef-817e-98d0e0bbf31b,,,,,,,,,,,,,,,ApprovalsCFValue{approvals=[]},,,,{},,,,,,,,,,,,,0|i0000t:,,,,,,,,,,,,,,,,,,,,To Do,13/Sep/26 1:05 AM
+OTP Verification - User Registration.,SHOP-7,10103,Bug,To Do,SHOP,ShopEase,software,apsha hassan,712020:60429119-426b-4bef-817e-98d0e0bbf31b,,High,,,,apsha hassan,712020:60429119-426b-4bef-817e-98d0e0bbf31b,apsha hassan,712020:60429119-426b-4bef-817e-98d0e0bbf31b,13/Sep/26 12:58 AM,14/Sep/26 6:01 PM,14/Sep/26 6:00 PM,,,0,"OTP verification is required after registration, perhaps after the registration OTP is not generated to either phone number or email.
+
+Steps to Reproduce:
+
+#  Click on Registration button.
+# Enter the Email.
+# Enter the Password.
+# Click on “Terms & Conditions”.
+# Click on OTP button.  
+
+Expected Result : 
+
+OTP verification is required after registration. 
+
+Actual Result:
+
+OTP verification is not generated after registration. ",,apsha hassan,712020:60429119-426b-4bef-817e-98d0e0bbf31b,,,,,,,,,,,,,,,ApprovalsCFValue{approvals=[]},,,,{},,,,,,,,,,,,,0|i0000r:,,,,,,,,,,,,,,,,,,,,To Do,13/Sep/26 12:58 AM
+Auto-suggestion while typing.,SHOP-6,10102,Bug,To Do,SHOP,ShopEase,software,apsha hassan,712020:60429119-426b-4bef-817e-98d0e0bbf31b,,Low,,,,apsha hassan,712020:60429119-426b-4bef-817e-98d0e0bbf31b,apsha hassan,712020:60429119-426b-4bef-817e-98d0e0bbf31b,13/Sep/26 12:30 AM,14/Sep/26 6:00 PM,14/Sep/26 5:56 PM,,,0,"Auto-suggestion while typing is not displaying when typing any brand or product name.
+
+Step to Reproduce: 
+
+# Click on “Search” Button.
+# Search for any Product or Brand name.
+# Auto suggestion while typing.
+
+Expected Result:
+
+Auto suggestion while typing.
+
+Actual Result:
+
+Auto suggestion while typing is not working/ not displayed any brand or product name.",,apsha hassan,712020:60429119-426b-4bef-817e-98d0e0bbf31b,,,,,,,,,13/Sep/26 12:30 AM;9e1afd8d-94a5-46d3-b7c1-60f4d634b6ab;philips.png;https://apshahassan1100.atlassian.net/rest/api/3/attachment/content/10003,,,,,,ApprovalsCFValue{approvals=[]},,,,{},,,,,,,,,,,,,0|i00013:,,,,,,,,,,,,,,,,,,,,To Do,13/Sep/26 12:30 AM
+Search by category.,SHOP-5,10101,Bug,To Do,SHOP,ShopEase,software,apsha hassan,712020:60429119-426b-4bef-817e-98d0e0bbf31b,,Medium,,,,apsha hassan,712020:60429119-426b-4bef-817e-98d0e0bbf31b,apsha hassan,712020:60429119-426b-4bef-817e-98d0e0bbf31b,13/Sep/26 12:04 AM,14/Sep/26 5:56 PM,14/Sep/26 5:54 PM,,,0,"Search by category is not working for the “Electronics” category search.
+
+Steps to Reproduce:
+
+# Click on “Search Button” 
+# Click on “Search by all categories”
+# “Electronics” need to be display on the dropdown.
+
+Expected Result:
+
+“Electronics” category need to be displayed on the dropdown menu.
+
+Actual Result:
+
+No “Electronics” category displayed on the dropdown menu.",,apsha hassan,712020:60429119-426b-4bef-817e-98d0e0bbf31b,,,,,,,,,13/Sep/26 12:04 AM;9e1afd8d-94a5-46d3-b7c1-60f4d634b6ab;electronics.png;https://apshahassan1100.atlassian.net/rest/api/3/attachment/content/10001,,,,,,ApprovalsCFValue{approvals=[]},,,,{},,,,,,,,,,,,,0|i0000v:,,,,,,,,,,,,,,,,,,,,To Do,13/Sep/26 12:04 AM
+User Name and pw required,SHOP-4,10068,Story,To Do,SHOP,ShopEase,software,apsha hassan,712020:60429119-426b-4bef-817e-98d0e0bbf31b,,Medium,,,,apsha hassan,712020:60429119-426b-4bef-817e-98d0e0bbf31b,apsha hassan,712020:60429119-426b-4bef-817e-98d0e0bbf31b,10/Sep/26 9:30 PM,10/Sep/26 9:30 PM,,,,0,xyz,,apsha hassan,712020:60429119-426b-4bef-817e-98d0e0bbf31b,,,,,,,,,,,,,,,ApprovalsCFValue{approvals=[]},,,,{},,,,,,,,,,,,,0|i0000n:,,,SHOP Sprint 1,,,,,,,,,,,,,,10067,SHOP-3,Login Button,To Do,10/Sep/26 9:30 PM
+Login Button,SHOP-3,10067,Epic,To Do,SHOP,ShopEase,software,apsha hassan,712020:60429119-426b-4bef-817e-98d0e0bbf31b,,Medium,,,,apsha hassan,712020:60429119-426b-4bef-817e-98d0e0bbf31b,apsha hassan,712020:60429119-426b-4bef-817e-98d0e0bbf31b,10/Sep/26 9:22 PM,10/Sep/26 9:22 PM,,,,0,ABC,,apsha hassan,712020:60429119-426b-4bef-817e-98d0e0bbf31b,,,,,,,,,,,,,,,ApprovalsCFValue{approvals=[]},,,,{},ghx-label-3,,To Do,,,,,yellow,,,,,0|i0000f:,,,,,,,,,,,,,,,,,,,,To Do,10/Sep/26 9:22 PM
